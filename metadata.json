@@ -1,0 +1,6 @@
+{
+  "name": "Nitte Campus Space & Event Hub",
+  "description": "Dynamic 3D spatial venue booking, priority conflict resolution, and real-time scheduling system for Nitte (NMAMIT) students and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
